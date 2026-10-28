@@ -1,0 +1,9 @@
+sim/*
+!sim/.gitkeep
+
+*.vcd
+*.vvp
+*.fst
+*.log
+*.out
+*.gtkw
